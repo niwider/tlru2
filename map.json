@@ -143,11 +143,6 @@
          "value":"Niklas Wuchauer, CC BY-SA 4.0"
         }, 
         {
-         "name":"mapDescription",
-         "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
-        }, 
-        {
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
@@ -161,11 +156,6 @@
          "name":"mapName",
          "type":"string",
          "value":"Insel"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script.js"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.1",
