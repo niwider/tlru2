@@ -140,7 +140,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Niklas Wuchauer, CC BY-SA 4.0"
         }, 
         {
          "name":"mapDescription",
@@ -155,12 +155,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"niwider.github.io\/tlru2\/map.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Starter kit"
+         "value":"Insel"
         }, 
         {
          "name":"script",
