@@ -20,6 +20,17 @@
          "id":61,
          "name":"MAT: YT 1 Test",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/true-love.org\/material\/love-overview.pdf"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":124,
@@ -164,7 +175,7 @@
         {
          "columns":10,
          "firstgid":1,
-         "image":"src\/assets\/tileset5_export.png",
+         "image":"C:\/Users\/Nikitas\/Downloads\/tlru2-master\/tlru2-master\/src\/assets\/tileset5_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -183,7 +194,7 @@
         {
          "columns":10,
          "firstgid":101,
-         "image":"src\/assets\/tileset6_export.png",
+         "image":"C:\/Users\/Nikitas\/Downloads\/tlru2-master\/tlru2-master\/src\/assets\/tileset6_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -202,7 +213,7 @@
         {
          "columns":11,
          "firstgid":201,
-         "image":"src\/assets\/tileset1.png",
+         "image":"C:\/Users\/Nikitas\/Downloads\/tlru2-master\/tlru2-master\/src\/assets\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -221,7 +232,7 @@
         {
          "columns":11,
          "firstgid":322,
-         "image":"src\/assets\/tileset1-repositioning.png",
+         "image":"C:\/Users\/Nikitas\/Downloads\/tlru2-master\/tlru2-master\/src\/assets\/tileset1-repositioning.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
@@ -240,7 +251,7 @@
         {
          "columns":6,
          "firstgid":443,
-         "image":"src\/assets\/Special_Zones.png",
+         "image":"C:\/Users\/Nikitas\/Downloads\/tlru2-master\/tlru2-master\/src\/assets\/Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -269,7 +280,7 @@
         {
          "columns":7,
          "firstgid":455,
-         "image":"D:\/_TLRU2-Technik\/Workadventure-Map\/_tilesets\/_lpc_full_assets\/Skyler_Robert_Colladay__FeralFantom's Entry\/crpyt.png",
+         "image":"..\/_tilesets\/_lpc_full_assets\/Skyler_Robert_Colladay__FeralFantom's Entry\/crpyt.png",
          "imageheight":224,
          "imagewidth":224,
          "margin":0,
@@ -283,7 +294,7 @@
         {
          "columns":7,
          "firstgid":504,
-         "image":"D:\/_TLRU2-Technik\/Workadventure-Map\/_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Windmill\/windmill_demo.gif",
+         "image":"..\/_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Windmill\/windmill_demo.gif",
          "imageheight":320,
          "imagewidth":224,
          "margin":0,
@@ -433,7 +444,7 @@
         {
          "columns":17,
          "firstgid":574,
-         "image":"D:\/_TLRU2-Technik\/Workadventure-Map\/_tilesets\/_lpc_full_assets\/Guido_Bos__Flowers, buildings and boxes\/contest-art-ausgeschnitten2.png",
+         "image":"..\/_tilesets\/_lpc_full_assets\/Guido_Bos__Flowers, buildings and boxes\/contest-art-ausgeschnitten2.png",
          "imageheight":412,
          "imagewidth":544,
          "margin":0,
@@ -1162,7 +1173,7 @@
         {
          "columns":32,
          "firstgid":778,
-         "image":"D:\/_TLRU2-Technik\/Workadventure-Map\/_tilesets\/lpc-beach-desert\/beach-desert.png",
+         "image":"..\/_tilesets\/lpc-beach-desert\/beach-desert.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1762,7 +1773,7 @@
         {
          "columns":7,
          "firstgid":1802,
-         "image":"D:\/_TLRU2-Technik\/Workadventure-Map\/_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Victorian house\/fence.png",
+         "image":"..\/_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Victorian house\/fence.png",
          "imageheight":128,
          "imagewidth":224,
          "margin":0,
@@ -1776,7 +1787,7 @@
         {
          "columns":20,
          "firstgid":1830,
-         "image":"D:\/_TLRU2-Technik\/Workadventure-Map\/_tilesets\/_lpc_full_assets\/Daniel_Eddeland__Farming tilesets, magic animations and UI elements\/tilesets\/farming_fishing.png",
+         "image":"..\/_tilesets\/_lpc_full_assets\/Daniel_Eddeland__Farming tilesets, magic animations and UI elements\/tilesets\/farming_fishing.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,
@@ -1790,7 +1801,7 @@
         {
          "columns":3,
          "firstgid":2230,
-         "image":"D:\/_TLRU2-Technik\/Workadventure-Map\/_tilesets\/_lpc_full_assets\/Stefan_Beller__Animated water tiles\/water.png",
+         "image":"..\/_tilesets\/_lpc_full_assets\/Stefan_Beller__Animated water tiles\/water.png",
          "imageheight":192,
          "imagewidth":96,
          "margin":0,
@@ -1941,7 +1952,7 @@
         {
          "columns":16,
          "firstgid":2248,
-         "image":"D:\/_TLRU2-Technik\/Workadventure-Map\/_tilesets\/Art-master-Tilesets\/Artis\/Artis_dock_debug.png",
+         "image":"..\/_tilesets\/Art-master-Tilesets\/Artis\/Artis_dock_debug.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -1955,7 +1966,7 @@
         {
          "columns":18,
          "firstgid":2376,
-         "image":"D:\/_TLRU2-Technik\/Workadventure-Map\/_tilesets\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"..\/_tilesets\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":576,
          "margin":0,
@@ -2502,6 +2513,15 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }]
+                }, 
+                {
+                 "id":511,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":false
                         }]
                 }, 
                 {
@@ -4409,7 +4429,7 @@
         {
          "columns":32,
          "firstgid":4770,
-         "image":"D:\/_TLRU2-Technik\/Workadventure-Map\/_tilesets\/lpc-victorian-preview\/bricks.png",
+         "image":"..\/_tilesets\/lpc-victorian-preview\/bricks.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
