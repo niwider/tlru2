@@ -182,7 +182,7 @@
         {
          "columns":26,
          "firstgid":1,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Victorian house\/demo.png",
+         "image":"_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Victorian house\/demo.png",
          "imageheight":604,
          "imagewidth":832,
          "margin":0,
@@ -196,7 +196,7 @@
         {
          "columns":7,
          "firstgid":469,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Victorian house\/fence.png",
+         "image":"_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Victorian house\/fence.png",
          "imageheight":128,
          "imagewidth":224,
          "margin":0,
@@ -210,7 +210,7 @@
         {
          "columns":9,
          "firstgid":497,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Victorian house\/victorian house.png",
+         "image":"_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Victorian house\/victorian house.png",
          "imageheight":416,
          "imagewidth":288,
          "margin":0,
@@ -224,7 +224,7 @@
         {
          "columns":7,
          "firstgid":614,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Windmill\/windmill_demo.gif",
+         "image":"_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Windmill\/windmill_demo.gif",
          "imageheight":320,
          "imagewidth":224,
          "margin":0,
@@ -374,7 +374,7 @@
         {
          "columns":7,
          "firstgid":684,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Asian theme\/shrine.png",
+         "image":"_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Asian theme\/shrine.png",
          "imageheight":512,
          "imagewidth":224,
          "margin":0,
@@ -388,7 +388,7 @@
         {
          "columns":17,
          "firstgid":796,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Asian theme\/shrine demo without roof.png",
+         "image":"_tilesets\/_lpc_full_assets\/Casper_Nilsson__LPC C.Nilsson\/Asian theme\/shrine demo without roof.png",
          "imageheight":443,
          "imagewidth":554,
          "margin":0,
@@ -402,7 +402,7 @@
         {
          "columns":20,
          "firstgid":1017,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Daniel_Eddeland__Farming tilesets, magic animations and UI elements\/tilesets\/farming_fishing.png",
+         "image":"_tilesets\/_lpc_full_assets\/Daniel_Eddeland__Farming tilesets, magic animations and UI elements\/tilesets\/farming_fishing.png",
          "imageheight":640,
          "imagewidth":640,
          "margin":0,
@@ -416,7 +416,7 @@
         {
          "columns":18,
          "firstgid":1417,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Guido_Bos__3rd entry, some old castle stuff\/castle-contest.png",
+         "image":"_tilesets\/_lpc_full_assets\/Guido_Bos__3rd entry, some old castle stuff\/castle-contest.png",
          "imageheight":210,
          "imagewidth":580,
          "margin":0,
@@ -430,7 +430,7 @@
         {
          "columns":15,
          "firstgid":1525,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Guido_Bos__Interior wooden tiles\/inside-contest.png",
+         "image":"_tilesets\/_lpc_full_assets\/Guido_Bos__Interior wooden tiles\/inside-contest.png",
          "imageheight":399,
          "imagewidth":496,
          "margin":0,
@@ -443,7 +443,7 @@
         {
          "columns":25,
          "firstgid":1705,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Jonas__Klinger_Skorpio's SciFi Sprite Pack\/_vollst\u00e4ndig.png",
+         "image":"_tilesets\/_lpc_full_assets\/Jonas__Klinger_Skorpio's SciFi Sprite Pack\/_vollst\u00e4ndig.png",
          "imageheight":2624,
          "imagewidth":800,
          "margin":0,
@@ -457,7 +457,7 @@
         {
          "columns":9,
          "firstgid":3755,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Matthew_Nash__Public Toilet Tileset\/toilets.png",
+         "image":"_tilesets\/_lpc_full_assets\/Matthew_Nash__Public Toilet Tileset\/toilets.png",
          "imageheight":352,
          "imagewidth":288,
          "margin":0,
@@ -471,7 +471,7 @@
         {
          "columns":7,
          "firstgid":3854,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Matthew_Nash__RPG Enemies\/monsters_0.png",
+         "image":"_tilesets\/_lpc_full_assets\/Matthew_Nash__RPG Enemies\/monsters_0.png",
          "imageheight":64,
          "imagewidth":224,
          "margin":0,
@@ -485,7 +485,7 @@
         {
          "columns":7,
          "firstgid":3868,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Skyler_Robert_Colladay__FeralFantom's Entry\/crpyt.png",
+         "image":"_tilesets\/_lpc_full_assets\/Skyler_Robert_Colladay__FeralFantom's Entry\/crpyt.png",
          "imageheight":224,
          "imagewidth":224,
          "margin":0,
@@ -499,7 +499,7 @@
         {
          "columns":3,
          "firstgid":3917,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Stefan_Beller__Animated water tiles\/water.png",
+         "image":"_tilesets\/_lpc_full_assets\/Stefan_Beller__Animated water tiles\/water.png",
          "imageheight":192,
          "imagewidth":96,
          "margin":0,
@@ -650,7 +650,7 @@
         {
          "columns":18,
          "firstgid":3935,
-         "image":"..\/_tilesets\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"_tilesets\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":576,
          "margin":0,
@@ -3104,7 +3104,7 @@
         {
          "columns":16,
          "firstgid":6329,
-         "image":"..\/_tilesets\/furniture\/furniture.png",
+         "image":"_tilesets\/furniture\/furniture.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -3118,7 +3118,7 @@
         {
          "columns":32,
          "firstgid":7353,
-         "image":"..\/_tilesets\/lpc-beach-desert\/beach-desert.png",
+         "image":"_tilesets\/lpc-beach-desert\/beach-desert.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -3718,7 +3718,7 @@
         {
          "columns":16,
          "firstgid":8377,
-         "image":"..\/_tilesets\/Art-master-Tilesets\/Artis\/Artis_dock_debug.png",
+         "image":"_tilesets\/Art-master-Tilesets\/Artis\/Artis_dock_debug.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -3732,7 +3732,7 @@
         {
          "columns":17,
          "firstgid":8505,
-         "image":"..\/_tilesets\/_lpc_full_assets\/Guido_Bos__Flowers, buildings and boxes\/contest-art-ausgeschnitten2.png",
+         "image":"_tilesets\/_lpc_full_assets\/Guido_Bos__Flowers, buildings and boxes\/contest-art-ausgeschnitten2.png",
          "imageheight":412,
          "imagewidth":544,
          "margin":0,
@@ -4461,7 +4461,7 @@
         {
          "columns":32,
          "firstgid":8709,
-         "image":"..\/_tilesets\/lpc-victorian-preview\/bricks.png",
+         "image":"_tilesets\/lpc-victorian-preview\/bricks.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
